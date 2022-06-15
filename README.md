@@ -5,7 +5,7 @@ It's super easy to get the application up and running.
 1. clone the project
 
 ```shell
-git clone https://github.com/zubayer-hossain/zubayer-hossain-mi_account_test.git
+git clone https://github.com/zubayer-hossain/miaccount_test.git
 ```
 
 2. install the dependencies
