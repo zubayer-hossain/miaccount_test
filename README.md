@@ -11,7 +11,7 @@ git clone https://github.com/zubayer-hossain/miaccount_test.git
 2. install the dependencies
 
 ```shell
-cd mi_account_test
+cd miaccount_test
 composer install
 ```
 
