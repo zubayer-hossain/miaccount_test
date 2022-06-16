@@ -33,7 +33,7 @@ php artisan key:generate
 php artisan serve
 ```
 
-5. Run migration and seeder
+5. Database Migration and Seeding
 
 ```shell
 php artisan migrate:fresh --seed
@@ -47,3 +47,12 @@ Email: superadmin@gmail.com
 Password: superadmin
 ```
 
+You will get two reports on sidebar menu.
+1. Hierarchical Report
+
+![See Hierarchical Report image](public/Hierarchical_Report.png)
+
+
+2. Table Report
+
+![See Table Report image](public/Table_Report.png)
