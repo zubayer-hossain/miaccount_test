@@ -32,18 +32,4 @@ class AccountHead extends Model
 
         return $total_amount;
     }
-
-    public static function getGroupNameByLevel($groups, $level = 1): string
-    {
-        $group_name = '';
-        if (count($groups) > 0){
-            foreach ($groups as $group) {
-                if ($group->level == $level){
-                    $group_name = $group->name;
-                }
-            }
-        }
-
-        return $group_name;
-    }
 }
